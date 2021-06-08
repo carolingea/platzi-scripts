@@ -1,3 +1,3 @@
 # Platzi Scripts
 
-Dummy tests are in `jenkins-tests`. CAROLINA
+Dummy tests are in `jenkins-tests`. CAROLINA DELGADO
